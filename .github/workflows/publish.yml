@@ -8,6 +8,8 @@ name: Publish
 on:
   push:
     branches: [main]
+  # Cho phép kích hoạt thủ công workflow Publish từ giao diện GitHub Actions
+  workflow_dispatch:
 
 permissions:
   contents: write
