@@ -1,6 +1,6 @@
 {
   "name": "@tgstack/nestjs-grammy",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "NestJS module for grammY: decorators, DI, guards, interceptors and filters for Telegram bots.",
   "license": "MIT",
   "author": "Son Le <sonlocle36123@gmail.com> (https://github.com/scoobingoo)",
