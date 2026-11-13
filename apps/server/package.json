@@ -54,7 +54,7 @@
     "@vitest/coverage-v8": "^5.0.5",
     "concurrently": "^10.0.6",
     "pino-pretty": "^13.2.0",
-    "supertest": "^7.3.1",
+    "supertest": "^7.3.2",
     "typescript": "6.0.3",
     "unplugin-swc": "^2.0.0",
     "vitest": "^5.0.5"
