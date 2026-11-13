@@ -31,7 +31,7 @@
     "@tgstack/i18n": "workspace:*",
     "@tgstack/nestjs-grammy": "workspace:*",
     "@tgstack/shared": "workspace:*",
-    "bullmq": "^6.3.19",
+    "bullmq": "^6.7.2",
     "cookie-parser": "^1.4.7",
     "grammy": "^1.46.0",
     "ioredis": "^6.0.0",
